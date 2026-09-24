@@ -13,14 +13,14 @@
 - https://www.instructables.com/Automated-Chessboard/
 
 ## Последние коммиты
-commit 607f57
+commit f06e14
 Author: Tyulkin Dmitriy
-Date:   Thu Sep 24 22:08:28 2026 +0300
+Date:   Thu Sep 24 23:04:22 2026 +0300
 
-    deleted old version of Project offer
+    deleted old version of project offer
 
-commit a4fdf7
+commit 5ea1c1
 Author: Tyulkin Dmitriy
-Date:   Sun Sep 6 07:41:02 2026 +0300
+Date:   Thu Sep 24 22:56:35 2026 +0300
 
-    first changed version of PP
+    improved readme
