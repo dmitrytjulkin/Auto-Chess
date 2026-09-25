@@ -13,14 +13,14 @@
 - https://www.instructables.com/Automated-Chessboard/
 
 ## Последние коммиты
+commit b03b4c
+Author: Tyulkin Dmitriy
+Date:   Thu Sep 24 23:09:00 2026 +0300
+
+    added CADs of pawn and rock
+
 commit f06e14
 Author: Tyulkin Dmitriy
 Date:   Thu Sep 24 23:04:22 2026 +0300
 
     deleted old version of project offer
-
-commit 5ea1c1
-Author: Tyulkin Dmitriy
-Date:   Thu Sep 24 22:56:35 2026 +0300
-
-    improved readme
