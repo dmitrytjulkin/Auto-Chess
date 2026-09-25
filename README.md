@@ -12,15 +12,19 @@
 ## Источники
 - https://www.instructables.com/Automated-Chessboard/
 
+## Последние действия
+Мы рассмотрели модель доски 1x2 клеток, прикрепили к нижней части два геркона и проверили их работу - взаимодействие с фигурами, в дно которых был вставлен магнит:
+![Тестирование герконов](assets/reed_switch_test.gif)
+
 ## Последние коммиты
+commit 662c6e
+Author: Tyulkin Dmitriy
+Date:   Fri Sep 25 13:11:56 2026 +0300
+
+    added arduino script to test reed switches
+
 commit b03b4c
 Author: Tyulkin Dmitriy
 Date:   Thu Sep 24 23:09:00 2026 +0300
 
     added CADs of pawn and rock
-
-commit f06e14
-Author: Tyulkin Dmitriy
-Date:   Thu Sep 24 23:04:22 2026 +0300
-
-    deleted old version of project offer
