@@ -17,14 +17,14 @@
 ![Тестирование герконов](assets/reed_switch_test.gif)
 
 ## Последние коммиты
+commit 609c43
+Author: Tyulkin Dmitriy
+Date:   Fri Sep 25 14:49:18 2026 +0300
+
+    added gif of testing reed switches to readme
+
 commit 662c6e
 Author: Tyulkin Dmitriy
 Date:   Fri Sep 25 13:11:56 2026 +0300
 
     added arduino script to test reed switches
-
-commit b03b4c
-Author: Tyulkin Dmitriy
-Date:   Thu Sep 24 23:09:00 2026 +0300
-
-    added CADs of pawn and rock
