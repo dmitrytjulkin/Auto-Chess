@@ -16,15 +16,18 @@
 Мы рассмотрели модель доски 1x2 клеток, прикрепили к нижней части два геркона и проверили их работу - взаимодействие с фигурами, в дно которых был вставлен магнит:
 ![Тестирование герконов](assets/reed_switch_test.gif)
 
+<!-- Также мы проверили работу шаговых моторов: -->
+<!-- ![Тестирование шаговых моторов]() -->
+
 ## Последние коммиты
+commit c43c56
+Author: Tyulkin Dmitriy
+Date:   Sun Sep 27 23:31:54 2026 +0300
+
+    added script for testing stepper motors
+
 commit 609c43
 Author: Tyulkin Dmitriy
 Date:   Fri Sep 25 14:49:18 2026 +0300
 
     added gif of testing reed switches to readme
-
-commit 662c6e
-Author: Tyulkin Dmitriy
-Date:   Fri Sep 25 13:11:56 2026 +0300
-
-    added arduino script to test reed switches
