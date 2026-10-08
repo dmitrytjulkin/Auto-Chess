@@ -20,15 +20,15 @@
 ![Тестирование шаговых моторов](assets/stepper_motor_test.gif)
 
 ## Последние коммиты
+commit 45d558
+Author: Tyulkin Dmitriy
+Date:   Sun Sep 27 23:52:28 2026 +0300
+
+    added gif of testing stepper motors
+
 commit 240173
 Author: Tyulkin Dmitriy
 Date:   Sun Sep 27 23:49:40 2026 +0300
 
     loaded essential CADs
-
-commit c43c56
-Author: Tyulkin Dmitriy
-Date:   Sun Sep 27 23:31:54 2026 +0300
-
-    added script for testing stepper motors
 
