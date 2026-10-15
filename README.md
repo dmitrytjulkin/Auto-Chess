@@ -17,17 +17,17 @@
 ![Три геркона](assets/3_reed_switches.jpeg)
 
 К его дну присоединили три геркона, присоединили проводами к мультиплексору и с помощью ардуино проверили работу системы (провели тест мультиплексора).
-![Тестирование мультиплексора](assets/mux_test.mp4)
+![Тестирование мультиплексора](assets/mux_test.gif)
 
 ## Последние коммиты
+commit 5cf8de
+Author: Tyulkin Dmitriy
+Date:   Thu Oct 15 17:28:27 2026 +0300
+
+    added video of testing mux and photo of 3 reed switchess on the board
+
 commit f04c6f
 Author: Tyulkin Dmitriy
 Date:   Thu Oct 8 15:19:53 2026 +0300
 
     added files for laser
-
-commit 45d558
-Author: Tyulkin Dmitriy
-Date:   Sun Sep 27 23:52:28 2026 +0300
-
-    added gif of testing stepper motors
