@@ -13,22 +13,21 @@
 - https://www.instructables.com/Automated-Chessboard/
 
 ## Последние действия
-Мы рассмотрели модель доски 1x2 клеток, прикрепили к нижней части два геркона и проверили их работу - взаимодействие с фигурами, в дно которых был вставлен магнит:
-![Тестирование герконов](assets/reed_switch_test.gif)
+Мы вырезали из оргстекла модель доски 3x3.
+![Три геркона](assets/3_reed_switches.jpeg)
 
-Также мы проверили работу шаговых моторов:
-![Тестирование шаговых моторов](assets/stepper_motor_test.gif)
+К его дну присоединили три геркона, присоединили проводами к мультиплексору и с помощью ардуино проверили работу системы (провели тест мультиплексора).
+![Тестирование мультиплексора](assets/mux_test.mp4)
 
 ## Последние коммиты
+commit f04c6f
+Author: Tyulkin Dmitriy
+Date:   Thu Oct 8 15:19:53 2026 +0300
+
+    added files for laser
+
 commit 45d558
 Author: Tyulkin Dmitriy
 Date:   Sun Sep 27 23:52:28 2026 +0300
 
     added gif of testing stepper motors
-
-commit 240173
-Author: Tyulkin Dmitriy
-Date:   Sun Sep 27 23:49:40 2026 +0300
-
-    loaded essential CADs
-
